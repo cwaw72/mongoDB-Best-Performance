@@ -9,3 +9,7 @@ mongoDB 특성상 대용량 데이터 추출 시 느릴 수 밖에 없다.
 
 **RediSearch vs. Elasticsearch**
 https://redis.com/blog/search-benchmarking-redisearch-vs-elasticsearch/
+결론 : redis가 더 빠르다
+
+**[ MongoDB + ElasticSearch + Monstache ]**
+https://sudarlife.tistory.com/entry/MongoDB-ElasticSearch-Monstache-%EB%8F%84%EC%BB%A4-%EA%B8%B0%EB%B3%B8-%EC%85%8B%ED%8C%85%EC%9D%84-%ED%95%B4%EB%B3%B4%EC%9E%90
